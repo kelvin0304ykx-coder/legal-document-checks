@@ -1,0 +1,8 @@
+{
+  "current_project_name": "星河法律顾问项目",
+  "legacy_project_names": ["旧城改造项目"],
+  "mandatory_terms": ["法定代表人签字", "加盖公章"],
+  "scoring_items": [{"id": "team", "required_terms": ["负责人", "成员分工", "响应机制"]}],
+  "dates": [{"id": "deadline", "label": "递交截止日期", "expected": "2026-08-16"}],
+  "price_checks": [{"id": "service", "unit_price": "0.10", "quantity": "3", "total": "0.31"}]
+}
